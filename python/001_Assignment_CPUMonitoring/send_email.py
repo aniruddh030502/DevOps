@@ -3,9 +3,9 @@ import smtplib
 
 
 
-EMAIL_RECIPIENT = "aniruddhadas371@gmail.com"  # Set recipient email
-EMAIL_SENDER = "aniruddhadas030502@gmail.com"
-EMAIL_PASSWORD = "urhz isdn wypy nwyc"
+EMAIL_RECIPIENT = "***********"  # Set recipient email
+EMAIL_SENDER = "***************"
+EMAIL_PASSWORD = "************"
 
 def send_email(process_name, pid, cpu_usage):
     """Send an email notification for system processes consuming high CPU."""
