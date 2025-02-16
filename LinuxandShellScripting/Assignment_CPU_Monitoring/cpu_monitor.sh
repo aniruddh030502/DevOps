@@ -3,9 +3,9 @@
 #Author:Aniruddha Das
 
 CPU_THRESHOLD=10  # CPU usage threshold
-EMAIL_RECIPIENT = "aniruddhadas371@gmail.com"  # Set recipient email
-EMAIL_SENDER = "aniruddhadas030502@gmail.com"
-EMAIL_PASSWORD = "urhz isdn wypy nwyc"
+EMAIL_RECIPIENT ="*****@gmail.com"  # Set recipient email
+EMAIL_SENDER ="*****@gmail.com"
+EMAIL_PASSWORD ="*** ****"
 
 SMTP_SERVER="smtp.gmail.com"
 CHECK_INTERVAL=5  # Seconds
